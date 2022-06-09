@@ -1,0 +1,47 @@
+Home-Header {
+    color: gray;
+    font-size: 60px;
+    font-weight: bolder;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+Parapgraph {
+    color: rgb(43, 45, 47);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+Site-Links {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(43, 45, 47);
+
+}
+
+Two-Header {
+    color: gray;
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+Three-Header {
+    color: black;
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+My-List {
+    color: black;
+    font-size: 25px;
+    font-weight: 400;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
